@@ -17,7 +17,7 @@ project:
       - source: /addons
         dest: /addons
 
-  root: /src
-  output: /src/addons/sourcemod/plugins
+  root: /
+  output: /addons/sourcemod/plugins
   targets:
     - MusicName
